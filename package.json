@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dinesh2894/sql-class/issues"
   },
-  "homepage": "https://github.com/dinesh2894/sql-class#readme"
+  "homepage": "https://github.com/dinesh2894/sql-class#readme",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
 }
