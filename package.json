@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dinesh2894/sql-class#readme",
   "dependencies": {
-    "faker": "^6.6.6"
+    "@faker-js/faker": "^8.4.1"
   }
 }
